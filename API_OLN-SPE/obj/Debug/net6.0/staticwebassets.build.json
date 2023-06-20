@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o6moayDZ2r8hXtYuiAMsJVkucxueSf62OGPSdg3PDCM=",
+  "Source": "API_OLN-SPE",
+  "BasePath": "_content/API_OLN-SPE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
